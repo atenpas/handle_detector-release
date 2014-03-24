@@ -1,3 +1,22 @@
+## handle_detector (hydro) - 1.0.5-1
+
+User `andreas@andreas-lab` released the packages in the `handle_detector` repository into the `hydro` distro by running `/usr/bin/bloom-release handle_detector --track hydro --rosdistro hydro` on `Mon, 24 Mar 2014 15:27:14 -0000`
+
+The `handle_detector` package was released.
+
+Version of package(s) in repository `handle_detector`:
+- rosdistro version: `1.0.5-0`
+- old version: `1.0.5-0`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.27`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## handle_detector (hydro) - 1.0.5-0
 
 User `andreas@andreas-lab` released the packages in the `handle_detector` repository into the `hydro` distro by running `/usr/bin/bloom-release handle_detector --track hydro --rosdistro hydro` on `Tue, 18 Mar 2014 21:04:40 -0000`
