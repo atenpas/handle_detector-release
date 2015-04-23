@@ -1,3 +1,24 @@
+## handle_detector (indigo) - 1.1.0-0
+
+The packages in the `handle_detector` repository were released into the `indigo` distro by running `/usr/bin/bloom-release handle_detector --rosdistro indigo --track indigo` on `Thu, 23 Apr 2015 16:49:29 -0000`
+
+The `handle_detector` package was released.
+
+Version of package(s) in repository `handle_detector`:
+- upstream repository: https://github.com/atenpas/handle_detector
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## handle_detector (hydro) - 1.1.0-0
 
 The packages in the `handle_detector` repository were released into the `hydro` distro by running `/usr/bin/bloom-release handle_detector --track hydro --rosdistro hydro` on `Thu, 24 Jul 2014 13:31:17 -0000`
