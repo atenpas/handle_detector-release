@@ -1,3 +1,26 @@
+## handle_detector (kinetic) - 1.3.1-0
+
+The packages in the `handle_detector` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release handle_detector --track kinetic --rosdistro kinetic --new-track` on `Sun, 22 Jul 2018 21:08:15 -0000`
+
+The `handle_detector` package was released.
+
+Version of package(s) in repository `handle_detector`:
+
+- upstream repository: https://github.com/atenpas/handle_detector
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.3.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.6`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## handle_detector (indigo) - 1.3.1-0
 
 The packages in the `handle_detector` repository were released into the `indigo` distro by running `/usr/bin/bloom-release handle_detector --track indigo --rosdistro indigo --edit` on `Thu, 18 Jun 2015 11:58:06 -0000`
